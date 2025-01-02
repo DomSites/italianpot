@@ -1,0 +1,108 @@
+[05-Jan-2019 11:05:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/plugins/hello.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/plugins/hello.php on line 59
+[30-Jan-2019 13:33:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/plugins/hello.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/plugins/hello.php on line 59
+[04-Jul-2020 07:13:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/plugins/hello.php on line 69
+[29-Aug-2020 00:27:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/plugins/hello.php on line 69
+[29-Aug-2020 00:27:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/plugins/hello.php on line 69
+[02-Dec-2020 10:15:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/plugins/hello.php on line 69
+[02-Dec-2020 10:43:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/plugins/hello.php on line 69
+[28-Jul-2022 14:56:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/plugins/hello.php on line 69
+[25-Aug-2022 12:42:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/plugins/hello.php on line 69
+[02-Sep-2023 12:42:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/plugins/hello.php on line 69
+[08-Sep-2023 04:43:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/plugins/hello.php on line 69
+[28-Apr-2024 05:24:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/plugins/hello.php on line 69
+[10-May-2024 12:32:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/plugins/hello.php on line 69
+[01-Aug-2024 12:00:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/plugins/hello.php on line 69
+[24-Aug-2024 06:27:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/plugins/hello.php on line 69
+[27-Aug-2024 07:52:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/plugins/hello.php on line 69
+[30-Aug-2024 20:03:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/plugins/hello.php on line 69
+[22-Sep-2024 10:02:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/plugins/hello.php on line 69
+[24-Sep-2024 15:06:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/plugins/hello.php on line 69
+[27-Sep-2024 10:55:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/plugins/hello.php on line 69
+[17-Nov-2024 06:08:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/plugins/hello.php on line 69
+[26-Nov-2024 01:48:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/plugins/hello.php on line 69
+[06-Dec-2024 08:26:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/plugins/hello.php on line 69
+[16-Dec-2024 10:34:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/plugins/hello.php on line 69
+[25-Dec-2024 01:37:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/plugins/hello.php on line 69
+[25-Dec-2024 10:01:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/plugins/hello.php on line 69
+[01-Jan-2025 19:09:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/plugins/hello.php on line 69

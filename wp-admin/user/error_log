@@ -1,0 +1,4 @@
+[01-Dec-2022 10:16:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/italnbfh/public_html/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-admin/user/menu.php on line 10

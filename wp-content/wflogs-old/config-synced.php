@@ -1,0 +1,6 @@
+<?php exit('Access denied'); __halt_compiler(); ?>
+******************************************************************
+This file is used by the Wordfence Web Application Firewall. Read 
+more at https://docs.wordfence.com/en/Web_Application_Firewall_FAQ
+******************************************************************
+a:19:{s:6:"apiKey";s:160:"96e6d04a60209fe64a7a0c23009bbcf2f8f7413ad445b53eaece9da55b4ad79876cec43df8bf8a405e8b5701fb5d483bc731546c2985494533f280b8088c51b5ed2d9e53b048228f7f20f46720015324";s:6:"isPaid";b:0;s:7:"siteURL";s:26:"https://www.italianpot.com";s:7:"homeURL";s:26:"https://www.italianpot.com";s:14:"whitelistedIPs";s:0:"";s:9:"howGetIPs";s:0:"";s:25:"howGetIPs_trusted_proxies";s:0:"";s:13:"pluginABSPATH";s:27:"/home/italnbfh/public_html/";s:11:"other_WFNet";b:1;s:9:"serverIPs";s:34:"["198.54.114.63","198.54.114.189"]";s:15:"blockCustomText";s:0:"";s:13:"timeoffset_wf";s:1:"0";s:23:"advancedBlockingEnabled";s:1:"1";s:21:"betaThreatDefenseFeed";b:0;s:20:"disableWAFIPBlocking";s:1:"0";s:13:"patternBlocks";s:2:"[]";s:13:"countryBlocks";s:154:"{"blocks":[],"action":"block","loggedInBlocked":"0","bypassRedirURL":"","bypassRedirDest":"","bypassViewURL":"","redirURL":"","cookieVal":"58d854dd51e62"}";s:11:"otherBlocks";s:33:"{"blockedTime":"300","blocks":[]}";s:8:"lockouts";s:37:"{"lockedOutTime":14400,"lockouts":[]}";}

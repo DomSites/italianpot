@@ -1,0 +1,55 @@
+.pp-admin-page-wrapper h1>span {
+  display: block;
+  line-height: 48px; 
+  padding-left: 60px;
+  background-image: url(../img/pluginicon.png);
+  background-repeat: no-repeat; 
+  background-color: #4B6F87;
+  color: #fff;
+}
+
+.rtl .pp-admin-page-wrapper h1>span {
+  padding-left: 0;
+  padding-right: 60px;
+  background-position: right top;
+}
+
+.pp-admin-page-wrapper h1 nav {
+  text-align: right;
+  line-height: 1;
+  border-right: 1px solid #4B6F87;
+}
+
+.rtl .pp-admin-page-wrapper h1 nav {
+  text-align: left;
+}
+
+.pp-admin-page-wrapper h1 nav a {
+  display: inline-block;
+  padding: 6px;
+  color: #4B6F87;
+  background-color: #fff;
+  text-decoration: none;
+  font-size: 12px;
+  height: 20px;
+  line-height: 20px;
+  border-left: 1px solid #4B6F87;
+  border-bottom: 1px solid #4B6F87;
+}
+
+.pp-admin-page-wrapper h1 nav a span.text {
+  white-space: nowrap;
+  padding-left: 4px;
+  display: none;
+}
+
+@media only screen and (min-width: 1200px) {
+  .pp-admin-page-wrapper h1 nav a span.text {
+    display: inline;
+  }
+}
+
+.pp-admin-page-wrapper h1 nav a:hover, .pp-admin-page-wrapper h1 nav a:focus {
+  background-color: #4B6F87;
+  color: #fff;
+}

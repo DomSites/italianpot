@@ -1,0 +1,46 @@
+[27-Oct-2021 15:29:00 America/New_York] PHP Fatal error:  Class 'WP_List_Table' not found in /home/italnbfh/public_html/wp-admin/includes/class-wp-comments-list-table.php on line 18
+[28-Oct-2021 00:44:07 America/New_York] PHP Fatal error:  Class 'WP_Privacy_Data_Export_Requests_List_Table' not found in /home/italnbfh/public_html/wp-admin/includes/deprecated.php on line 1530
+[09-Jul-2023 05:10:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/italnbfh/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-admin/includes/admin.php on line 16
+[09-Jul-2023 05:10:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/italnbfh/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-admin/includes/admin.php on line 16
+[14-Jul-2023 02:40:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/italnbfh/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-admin/includes/admin.php on line 16
+[14-Jul-2023 02:41:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/italnbfh/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-admin/includes/admin.php on line 16
+[02-Sep-2023 21:34:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/italnbfh/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-admin/includes/admin.php on line 16
+[11-Sep-2023 13:54:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/italnbfh/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-admin/includes/admin.php on line 16
+[11-Sep-2023 13:54:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/italnbfh/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-admin/includes/admin.php on line 16
+[12-Mar-2024 14:03:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/italnbfh/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-admin/includes/file.php on line 16
+[19-Mar-2024 16:06:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/italnbfh/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-admin/includes/file.php on line 16
+[23-Mar-2024 10:09:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/italnbfh/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-admin/includes/file.php on line 16
+[17-Aug-2024 14:07:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/italnbfh/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-admin/includes/file.php on line 16

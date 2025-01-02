@@ -1,0 +1,627 @@
+# Translation of Plugins - WP Fastest Cache - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - WP Fastest Cache - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-02-08 13:40:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - WP Fastest Cache - Development (trunk)\n"
+
+#: inc/admin.php:1857 templates/exclude.php:114
+msgid "has Yandex Click ID Parameters"
+msgstr "имеет параметры Yandex Click ID"
+
+#. Author URI of the plugin
+msgid "https://www.wpfastestcache.com/"
+msgstr "https://www.wpfastestcache.com/"
+
+#: inc/admin.php:1635
+msgid "Clearing Specific Pages"
+msgstr "Очистка определённых страниц"
+
+#: templates/toolbar_settings.php:71
+msgid "Save"
+msgstr "Сохранить"
+
+#: templates/toolbar_settings.php:68
+msgid "Cancel"
+msgstr "Отмена"
+
+#: templates/toolbar_settings.php:20
+msgid "Toolbar Settings"
+msgstr "Настройки панели инструментов"
+
+#: inc/admin-toolbar.php:73 inc/admin-toolbar.php:105
+msgid "Clear Cache of All Sites"
+msgstr "Очистить кеш всех сайтов"
+
+#: wpFastestCache.php:407
+msgid "<a href=\"%s\">Settings</a>"
+msgstr "<a href=\"%s\">Настройки</a>"
+
+#: inc/column.php:15
+msgid "Clear Cache"
+msgstr "Очистить кэш"
+
+#: inc/admin.php:1287 inc/admin.php:1293 inc/admin.php:1300
+msgid "Eliminate render-blocking JavaScript resources"
+msgstr "Устранение ресурсов JavaScript, блокирующих рендеринг"
+
+#: inc/admin.php:434 inc/admin.php:437
+msgid "Options have been saved"
+msgstr "Параметры сохранены"
+
+#: inc/admin.php:1803
+msgid "Download"
+msgstr "Скачать"
+
+#: inc/admin.php:1798
+msgid "Update"
+msgstr "Обновить"
+
+#: inc/admin.php:1792
+msgid "Please don't delete the free version. Premium version works with the free version."
+msgstr "Не удаляйте бесплатную версию. Премиум-версия работает с бесплатной версией."
+
+#: inc/admin.php:1791
+msgid "Get It Now!"
+msgstr "Получите это сейчас!"
+
+#: inc/admin.php:1785
+msgid "You can download and update the premium when you want if you paid."
+msgstr "Вы можете загрузить и обновить премию, когда захотите, если заплатите."
+
+#: inc/admin.php:1782
+msgid "Download & Update"
+msgstr "Скачать и обновить"
+
+#: inc/admin.php:1770
+msgid "Buy"
+msgstr "Купить"
+
+#: inc/admin.php:1759
+msgid "Purchased"
+msgstr "Приобретено"
+
+#: inc/admin.php:1755
+msgid "The download button will be available after paid. You can buy the premium version now."
+msgstr "Кнопка загрузки будет доступна после оплаты. Вы можете купить премиум-версию прямо сейчас."
+
+#: inc/admin.php:1754
+msgid "Just"
+msgstr "Только"
+
+#: inc/admin.php:1742
+msgid "You need to pay before downloading the premium version."
+msgstr "Перед загрузкой премиум-версии необходимо заплатить."
+
+#: inc/admin.php:1739
+msgid "Checkout"
+msgstr "Оформление заказа"
+
+#: inc/admin.php:1725
+msgid "New Features"
+msgstr "Новые функции"
+
+#: inc/admin.php:1719
+msgid "In the premium version there are some new features which speed up the sites more."
+msgstr "В премиум-версии есть несколько новых функций, которые ещё больше ускоряют работу сайтов."
+
+#: inc/admin.php:1716
+msgid "Discover Features"
+msgstr "Откройте для себя новые возможности"
+
+#: inc/admin.php:1858 templates/exclude.php:115
+msgid "has Woocommerce Items in Cart"
+msgstr "есть товары Woocommerce в корзине"
+
+#: inc/admin.php:1856 templates/exclude.php:113
+msgid "has Google Analytics Parameters"
+msgstr "имеет параметры Google Analytics"
+
+#: inc/admin.php:1846 templates/exclude.php:100
+msgid "Archives"
+msgstr "Архивы"
+
+#: templates/timeout.php:189
+msgid "Server Time"
+msgstr "Серверное время"
+
+#: templates/timeout.php:169
+msgid "delete the files"
+msgstr "удалить файлы"
+
+#: inc/admin.php:1532 inc/admin.php:1851 templates/exclude.php:106
+#: templates/timeout.php:99
+msgid "Contains"
+msgstr "Содержит"
+
+#: inc/admin.php:1533 inc/admin.php:1852 templates/exclude.php:107
+#: templates/timeout.php:98
+msgid "Is Equal To"
+msgstr "Равно"
+
+#: inc/admin.php:1531 inc/admin.php:1850 templates/exclude.php:105
+#: templates/timeout.php:97
+msgid "Starts With"
+msgstr "Начинается с"
+
+#: inc/admin.php:1530 inc/admin.php:1843 templates/exclude.php:95
+#: templates/timeout.php:96
+msgid "Home Page"
+msgstr "Главная страница"
+
+#: inc/admin.php:1529 templates/timeout.php:95
+msgid "All"
+msgstr "Все"
+
+#: templates/exclude.php:66
+msgid "Exclude Page Wizard"
+msgstr "Мастер исключения страниц"
+
+#: templates/timeout.php:124
+msgid "Then"
+msgstr "Тогда"
+
+#: templates/exclude.php:89 templates/timeout.php:91
+msgid "If REQUEST_URI"
+msgstr "Если REQUEST_URI"
+
+#: templates/timeout.php:68
+msgid "Cache Timeout Wizard"
+msgstr "Мастер тайм-аута (время ожидания) кэша"
+
+#: templates/lazy_load.php:9
+msgid "Lazy Load Settings"
+msgstr "Настройки отложенной загрузки"
+
+#: templates/nginx_gzip.php:9
+msgid "Enable Gzip"
+msgstr "Включить GZIP"
+
+#: templates/update_now.php:9
+msgid "Please Update"
+msgstr "Пожалуйста, обновите"
+
+#: templates/update_success.php:9
+msgid "Success"
+msgstr "Успех"
+
+#: templates/disable_wp_cron.php:20
+msgid "Warning"
+msgstr "Предупреждение"
+
+#: inc/admin.php:1567 inc/admin.php:1639 inc/admin.php:1879 inc/admin.php:1896
+#: inc/admin.php:1915 inc/admin.php:1933 inc/admin.php:1953
+msgid "Add New Rule"
+msgstr "Добавить новое правило"
+
+#: inc/admin-toolbar.php:97 inc/admin.php:1501
+msgid "Delete Cache and Minified CSS/JS"
+msgstr "Удалить кэш и минифицированные CSS/JS"
+
+#: inc/admin.php:1433 inc/admin.php:2122 inc/admin.php:2288
+msgid "Only available in Premium version"
+msgstr "Доступно только в версии Premium"
+
+#: templates/timeout.php:141
+msgid "Choose One"
+msgstr "Выбрать один"
+
+#: inc/admin.php:1506
+msgid "All cache files will be removed as well"
+msgstr "Все файлы кэша также будут удалены"
+
+#: inc/admin.php:1505
+msgid "If you modify any css file, you have to delete minified css files"
+msgstr "При изменении какого-либо CSS-файла, необходимо удалить минифицированные CSS-файлы"
+
+#: inc/admin.php:1493 inc/admin.php:1507 inc/admin.php:1508
+msgid "Target folder"
+msgstr "Целевая папка"
+
+#: inc/admin.php:1492
+msgid "You can delete all cache files"
+msgstr "Можно удалить все файлы кэша"
+
+#: inc/admin.php:1030
+msgid "Exclude"
+msgstr "Исключить"
+
+#: inc/admin.php:1028
+msgid "Image Optimization"
+msgstr "Оптимизация изображения"
+
+#: inc/admin-toolbar.php:113 inc/admin.php:1025
+msgid "Settings"
+msgstr "Настройки"
+
+#: inc/admin.php:2095
+msgid "Database Cleanup"
+msgstr "Очистка базы данных"
+
+#: inc/admin.php:1986
+msgid "CDN Settings"
+msgstr "Настройки CDN"
+
+#: inc/admin.php:1949
+msgid "Exclude JS"
+msgstr "Исключить JS"
+
+#: inc/admin.php:1929
+msgid "Exclude CSS"
+msgstr "Исключить CSS"
+
+#: inc/admin.php:1911
+msgid "Exclude Cookies"
+msgstr "Исключить файлы cookie"
+
+#: inc/admin.php:1892
+msgid "Exclude User-Agents"
+msgstr "Исключить агентов-пользователей"
+
+#: inc/admin.php:1875
+msgid "Exclude Pages"
+msgstr "Исключить страницы"
+
+#: inc/admin.php:1692
+msgid "Optimize Image Tool"
+msgstr "Инструмент оптимизации изображений"
+
+#: inc/admin.php:1522
+msgid "Timeout Rules"
+msgstr "Правила тайм-аута (время ожидания)"
+
+#: inc/admin-toolbar.php:85 inc/admin.php:1026 inc/admin.php:1480
+msgid "Delete Cache"
+msgstr "Удалить кэш"
+
+#: inc/admin.php:1440
+msgid "Cache Statistics"
+msgstr "Статистика кеширования"
+
+#: templates/updatepost.php:53
+msgid "Clear Cache of Post / Page"
+msgstr "Очистить кэш записи/страницы"
+
+#: templates/updatepost.php:29
+msgid "What do you want to happen after update a post or a page?"
+msgstr "Что вы хотите, чтобы произошло после обновления записи или страницы?"
+
+#: templates/newpost.php:58
+msgid "Clear Cache of Pagination"
+msgstr "Очистить кеш разбивки на страницы"
+
+#: templates/newpost.php:57 templates/updatepost.php:55
+msgid "Clear Cache of Post Tags"
+msgstr "Очистить кеш тегов записи"
+
+#: templates/newpost.php:56 templates/updatepost.php:54
+msgid "Clear Cache of Post Categories"
+msgstr "Очистить кэш рубрики записи"
+
+#: templates/newpost.php:55 templates/updatepost.php:56
+msgid "Clear Cache of Homepage"
+msgstr "Очистить кэш главной страницы"
+
+#: inc/admin-toolbar.php:90 inc/admin.php:1488 templates/newpost.php:51
+#: templates/updatepost.php:49
+msgid "Clear All Cache"
+msgstr "Очистить весь кэш"
+
+#: templates/newpost.php:29
+msgid "What do you want to happen after publishing the new post?"
+msgstr "Что вы хотите, чтобы произошло после публикации новой записи?"
+
+#: templates/newpost.php:68 templates/preload.php:115
+#: templates/updatepost.php:64
+msgid "OK"
+msgstr "ОК"
+
+#: templates/preload.php:101
+msgid "Restart After Completed"
+msgstr "Перезагрузить после завершения"
+
+#: templates/preload.php:96
+msgid "pages per minute"
+msgstr "страниц в минуту"
+
+#: templates/preload.php:70
+msgid "Custom Taxonomies"
+msgstr "Пользовательские таксономии"
+
+#: templates/preload.php:65
+msgid "Custom Post Types"
+msgstr "Пользовательские типы записей"
+
+#: inc/admin.php:1849 templates/exclude.php:101 templates/preload.php:60
+msgid "Attachments"
+msgstr "Вложения"
+
+#: inc/admin.php:1845 templates/exclude.php:97 templates/preload.php:56
+msgid "Tags"
+msgstr "Теги"
+
+#: inc/admin.php:1848 templates/exclude.php:99 templates/preload.php:52
+msgid "Pages"
+msgstr "Страницы"
+
+#: inc/admin.php:1844 templates/exclude.php:96 templates/preload.php:48
+msgid "Categories"
+msgstr "Рубрики"
+
+#: inc/admin.php:1847 templates/exclude.php:98 templates/preload.php:44
+msgid "Posts"
+msgstr "Записи"
+
+#: templates/preload.php:40
+msgid "Homepage"
+msgstr "Главная страница"
+
+#: inc/admin.php:1234 inc/admin.php:1242 inc/admin.php:1248 inc/admin.php:1254
+msgid "Reduce HTTP requests through combined js files"
+msgstr "Сокращение запросов HTTP с помощью объединения JS-файлов"
+
+#: inc/admin.php:1342 inc/admin.php:1356 inc/admin.php:1363
+msgid "Load images and iframes when they enter the browsers viewport"
+msgstr "Загружать изображения и iframe, когда они попадают в область просмотра браузера"
+
+#: inc/admin.php:1313 inc/admin.php:1319 inc/admin.php:1326
+msgid "Load Google Fonts asynchronously"
+msgstr "Асинхронная загрузка шрифтов Google"
+
+#: inc/admin.php:1312 inc/admin.php:1318 inc/admin.php:1325
+msgid "Google Fonts"
+msgstr "Шрифты Google"
+
+#: inc/admin.php:1286 inc/admin.php:1292 inc/admin.php:1299
+msgid "Render Blocking Js"
+msgstr "JS-файлы, блокирующие рендеринг"
+
+#: inc/admin.php:1278
+msgid "You can remove the emoji inline css and wp-emoji-release.min.js"
+msgstr "Вы можете удалить встроенные CSS смайлики (emoji) и wp-emoji-release.min.js"
+
+#: inc/admin.php:1277
+msgid "Disable Emojis"
+msgstr "Отключить Emojis"
+
+#: inc/admin.php:1272
+msgid "Reduce page load times for repeat visitors"
+msgstr "Сокращение времени загрузки страниц для повторных посетителей"
+
+#: inc/admin.php:1271
+msgid "Browser Caching"
+msgstr "Кэш браузера"
+
+#: inc/admin.php:1260
+msgid "Reduce the size of files sent from your server"
+msgstr "Сокращение размер файлов, отправляемых с вашего сервера"
+
+#: inc/admin.php:1259
+msgid "Gzip"
+msgstr "Gzip"
+
+#: inc/admin.php:1240 inc/admin.php:1247 inc/admin.php:1253
+msgid "Combine Js Plus"
+msgstr "Объединить JS Plus"
+
+#: inc/admin.php:1233
+msgid "Combine Js"
+msgstr "Объединить JS"
+
+#: inc/admin.php:1217 inc/admin.php:1222 inc/admin.php:1228
+msgid "You can decrease the size of js files"
+msgstr "Вы можете уменьшить размер JS-файлов"
+
+#: inc/admin.php:1216 inc/admin.php:1221 inc/admin.php:1227
+msgid "Minify Js"
+msgstr "Минификация JS"
+
+#: inc/admin.php:1209
+msgid "Reduce HTTP requests through combined css files"
+msgstr "Сокращение запросов HTTP с помощью объединения CSS-файлов"
+
+#: inc/admin.php:1208
+msgid "Combine Css"
+msgstr "Объединить CSS"
+
+#: inc/admin.php:1197 inc/admin.php:1202
+msgid "More powerful minify css"
+msgstr "Более мощная минификация CSS-файлов"
+
+#: inc/admin.php:1196 inc/admin.php:1201
+msgid "Minify Css Plus"
+msgstr "Минификация CSS Plus"
+
+#: inc/admin.php:1188
+msgid "You can decrease the size of css files"
+msgstr "Вы можете уменьшить размер CSS-файлов"
+
+#: inc/admin.php:1187
+msgid "Minify Css"
+msgstr "Минификация CSS"
+
+#: inc/admin.php:1175 inc/admin.php:1180
+msgid "More powerful minify html"
+msgstr "Более мощная минификация HTML"
+
+#: inc/admin.php:1174 inc/admin.php:1179
+msgid "Minify HTML Plus"
+msgstr "Минификация HTML Plus"
+
+#: inc/admin.php:1168
+msgid "You can decrease the size of page"
+msgstr "Вы можете уменьшить размер страницы"
+
+#: inc/admin.php:1167
+msgid "Minify HTML"
+msgstr "Минификация HTML"
+
+#: inc/admin.php:1159
+msgid "Clear cache files when a post or page is updated"
+msgstr "Очистить файлы кэша при обновлении записи или страницы"
+
+#: inc/admin.php:1158 templates/updatepost.php:18
+msgid "Update Post"
+msgstr "Обновить запись"
+
+#: inc/admin.php:1152
+msgid "Clear cache files when a post or page is published"
+msgstr "Очистить файлы кеша при публикации записи или страницы"
+
+#: inc/admin.php:1151 templates/newpost.php:18
+msgid "New Post"
+msgstr "Новая запись"
+
+#: inc/admin.php:1119 inc/admin.php:1145
+msgid "Create cache for mobile theme"
+msgstr "Создание кэша для темы мобильных устройств"
+
+#: inc/admin.php:1118 inc/admin.php:1144
+msgid "Mobile Theme"
+msgstr "Мобильная тема"
+
+#: inc/admin.php:1113
+msgid "Don't show the cached version for desktop to mobile devices"
+msgstr "Не показывать кешированную версию для ПК на мобильных устройствах"
+
+#: inc/admin.php:1112
+msgid "Mobile"
+msgstr "Мобильный"
+
+#: inc/admin.php:1108
+msgid "Don't show the cached version for logged-in users"
+msgstr "Не показывать кешированную версию для авторизованных пользователей"
+
+#: inc/admin.php:1107
+msgid "Logged-in Users"
+msgstr "Зарегистрированные пользователи"
+
+#: inc/admin.php:1098
+msgid "Create the cache of all the site automatically"
+msgstr "Автоматическое создание кэша для всего сайта"
+
+#: inc/admin.php:1097 templates/preload.php:27
+msgid "Preload"
+msgstr "Предварительная загрузка"
+
+#: inc/admin.php:1069 inc/admin.php:1075 inc/admin.php:1082 inc/admin.php:1089
+msgid "Reduce the number of SQL queries"
+msgstr "Сокращение количества SQL-запросов"
+
+#: inc/admin.php:1068 inc/admin.php:1074 inc/admin.php:1081 inc/admin.php:1088
+msgid "Widget Cache"
+msgstr "Кэш виджетов"
+
+#: inc/admin.php:1059
+msgid "Enable"
+msgstr "Включить"
+
+#: inc/admin.php:1058
+msgid "Cache System"
+msgstr "Система кэширования"
+
+#: wpFastestCache.php:2116
+msgid "Once Every 15 Days"
+msgstr "Один раз в 15 дней"
+
+#: wpFastestCache.php:2104
+msgid "Once Every 7 Days"
+msgstr "Каждые 7 дней"
+
+#: wpFastestCache.php:2098
+msgid "Once Every 3 Days"
+msgstr "Раз в 3 дня"
+
+#: wpFastestCache.php:2086
+msgid "Once Every 10 Hours"
+msgstr "Каждые 10 часов"
+
+#: wpFastestCache.php:2080
+msgid "Once Every 9 Hours"
+msgstr "Каждые 9 часов"
+
+#: wpFastestCache.php:2074
+msgid "Once Every 8 Hours"
+msgstr "Каждые 8 часов"
+
+#: wpFastestCache.php:2068
+msgid "Once Every 7 Hours"
+msgstr "Каждые 7 часов"
+
+#: wpFastestCache.php:2056
+msgid "Once Every 5 Hours"
+msgstr "Каждые 5 часов"
+
+#: wpFastestCache.php:2050
+msgid "Once Every 4 Hours"
+msgstr "Каждые 4 часа"
+
+#: wpFastestCache.php:2044
+msgid "Once Every 3 Hours"
+msgstr "Каждые 3 часа"
+
+#: wpFastestCache.php:2038
+msgid "Once Every 2 Hours"
+msgstr "Каждые 2 часа"
+
+#: wpFastestCache.php:2110
+msgid "Once Every 10 Days"
+msgstr "Раз в 10 суток"
+
+#. Author of the plugin
+msgid "Emre Vona"
+msgstr "Emre Vona"
+
+#. Description of the plugin
+msgid "The simplest and fastest WP Cache system"
+msgstr "Простой и быстрый кэш для WordPress"
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/wp-fastest-cache/"
+msgstr "http://ru.wordpress.org/plugins/wp-fastest-cache/"
+
+#. Plugin Name of the plugin
+msgid "WP Fastest Cache"
+msgstr "WP Fastest Cache"
+
+#: wpFastestCache.php:2128
+msgid "Once a Year"
+msgstr "Раз в год"
+
+#: wpFastestCache.php:2122
+msgid "Once a Month"
+msgstr "Раз в месяц"
+
+#: wpFastestCache.php:2092
+msgid "Once a Day"
+msgstr "Раз в сутки"
+
+#: wpFastestCache.php:2062
+msgid "Once Every 6 Hours"
+msgstr "Каждые 6 часов"
+
+#: wpFastestCache.php:2032
+msgid "Once an Hour"
+msgstr "Раз в час"
+
+#: wpFastestCache.php:2026
+msgid "Twice an Hour"
+msgstr "Раз в полчаса"
+
+#: wpFastestCache.php:2020
+msgid "Once Every 15 Minutes"
+msgstr "Каждые 15 минут"
+
+#: wpFastestCache.php:2014
+msgid "Once Every 5 Minutes"
+msgstr "Каждые 5 минут"
+
+#: wpFastestCache.php:2008
+msgid "Once Every 1 Minute"
+msgstr "Каждую минуту"

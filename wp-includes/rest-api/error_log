@@ -1,0 +1,4 @@
+[25-Nov-2023 13:09:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/italnbfh/public_html/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17

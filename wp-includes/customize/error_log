@@ -1,0 +1,137 @@
+[16-Jan-2023 14:23:23 America/New_York] PHP Fatal error:  Class 'WP_Customize_Image_Control' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[25-Nov-2023 13:08:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[25-Nov-2023 13:08:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[25-Nov-2023 13:08:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[25-Nov-2023 13:08:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[25-Nov-2023 13:08:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[25-Nov-2023 13:08:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[25-Nov-2023 13:08:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[25-Nov-2023 13:08:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[25-Nov-2023 13:08:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[25-Nov-2023 13:08:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[25-Nov-2023 13:08:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[25-Nov-2023 13:08:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Upload_Control' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[25-Nov-2023 13:08:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[25-Nov-2023 13:08:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[25-Nov-2023 13:08:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[25-Nov-2023 13:08:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[25-Nov-2023 13:08:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[25-Nov-2023 13:09:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[25-Nov-2023 13:09:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[25-Nov-2023 13:09:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[25-Nov-2023 13:09:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[25-Nov-2023 13:09:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[25-Nov-2023 13:09:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Panel' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[25-Nov-2023 13:09:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[25-Nov-2023 13:09:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[25-Nov-2023 13:09:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[25-Nov-2023 13:09:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Cropped_Image_Control' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[25-Nov-2023 13:09:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[25-Nov-2023 13:09:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Panel' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[25-Nov-2023 13:09:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[25-Nov-2023 13:09:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Media_Control' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[25-Nov-2023 13:09:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[25-Nov-2023 13:09:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[25-Nov-2023 13:09:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/italnbfh/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17

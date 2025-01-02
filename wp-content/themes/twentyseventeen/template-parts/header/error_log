@@ -1,0 +1,44 @@
+[31-Mar-2022 04:45:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function the_custom_logo() in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/header/site-branding.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/header/site-branding.php on line 15
+[31-Mar-2022 06:48:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function the_custom_header_markup() in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/header/header-image.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/header/header-image.php on line 15
+[08-Aug-2022 22:08:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function the_custom_logo() in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/header/site-branding.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/header/site-branding.php on line 15
+[08-Aug-2022 22:08:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function the_custom_logo() in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/header/site-branding.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/header/site-branding.php on line 15
+[08-Aug-2022 22:08:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function the_custom_logo() in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/header/site-branding.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/header/site-branding.php on line 15
+[09-Aug-2022 00:31:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function the_custom_header_markup() in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/header/header-image.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/header/header-image.php on line 15
+[09-Aug-2022 00:31:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function the_custom_header_markup() in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/header/header-image.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/header/header-image.php on line 15
+[09-Aug-2022 00:31:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function the_custom_header_markup() in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/header/header-image.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/header/header-image.php on line 15
+[20-Aug-2022 13:59:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function the_custom_header_markup() in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/header/header-image.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/header/header-image.php on line 15
+[20-Aug-2022 16:11:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function the_custom_logo() in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/header/site-branding.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/header/site-branding.php on line 15
+[01-May-2023 10:12:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function the_custom_header_markup() in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/header/header-image.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/header/header-image.php on line 15

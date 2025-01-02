@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Wine &#8211; Italianpot.com | Authentic Italian Recipes</title>
+	<atom:link href="https://domsites.github.io/italianpot/category/wine/feed/" rel="self" type="application/rss+xml" />
+	<link>https://domsites.github.io/italianpot</link>
+	<description>Authentic Italian Recipes</description>
+	<lastBuildDate>Fri, 28 Sep 2018 00:00:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://domsites.github.io/italianpot/wp-content/uploads/2017/03/cropped-IPfavicon-32x32.png</url>
+	<title>Wine &#8211; Italianpot.com | Authentic Italian Recipes</title>
+	<link>https://domsites.github.io/italianpot</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Wine Pairing</title>
+		<link>https://domsites.github.io/italianpot/wine-pairing/</link>
+					<comments>https://domsites.github.io/italianpot/wine-pairing/#respond</comments>
+		
+		<dc:creator><![CDATA[italianpot]]></dc:creator>
+		<pubDate>Fri, 12 May 2017 13:21:45 +0000</pubDate>
+				<category><![CDATA[Drink]]></category>
+		<category><![CDATA[Wine]]></category>
+		<category><![CDATA[Wine and Food Matching]]></category>
+		<category><![CDATA[Wine Matching]]></category>
+		<category><![CDATA[Wine Pairing]]></category>
+		<guid isPermaLink="false">https://domsites.github.io/italianpot/?p=832</guid>
+
+					<description><![CDATA[To apply the Wine Pairing rule, it is important to note that certain flavors cause pleasant sensations, while others cause unpleasant feelings (even unconscious). Matching by concordance is when wine &#8220;accompanies&#8221; the pleasant feelings of a dish. Matching, by contrast, is when the wine expresses [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>To apply the Wine Pairing rule, it is important to note that certain flavors cause pleasant sensations, while others cause unpleasant feelings (even unconscious).<br />
+<a href="https://en.wikipedia.org/wiki/Wine_and_food_matching" target="_blank" rel="noopener noreferrer">Matching</a> by concordance is when wine &#8220;accompanies&#8221; the pleasant feelings of a dish.<br />
+Matching, by contrast, is when the wine expresses characteristics that are opposite to those of the food.</p>
+<p>Match a red wine with the <a href="https://domsites.github.io/italianpot/casatiello">Casatiello</a>, <a href="https://domsites.github.io/italianpot/eggplant-parmesan/">Eggplant Parmesan</a>, <a href="https://domsites.github.io/italianpot/lamb-bolognese/">Lamb Bolognese</a>, <a href="https://domsites.github.io/italianpot/lasagna/">Lasagna</a>, <a href="https://domsites.github.io/italianpot/pasta-soup/">Pasta Soup</a>, with the <a href="https://domsites.github.io/italianpot/escarole-pizza-pie/">Escarole Pizza Pie</a> or a white wine with the <a href="https://domsites.github.io/italianpot/authentic-fettuccine-alfredo/">Fettuccine Alfredo</a>,  <a href="https://domsites.github.io/italianpot/the-seafood-risotto/">Seafood Risotto,</a> or with the <a href="https://domsites.github.io/italianpot/tiramisu-cake-recipe/">Tiramisu&#8217; Cake </a>the <a href="https://domsites.github.io/italianpot/italian-cream-puffs-bigne/">Cream Puffs</a> or the <a href="https://domsites.github.io/italianpot/crostoli-chiacchiere-frappe/">Crostoli</a>.</p>
+<h3>Pair your dish with the right wine.</h3>
+<p>&nbsp;</p>
+<h2>Enjoy our Wine Pairing!</h2>
+<p><script type="text/javascript" src="https://form.jotform.us/jsform/71206459320147"></script></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://domsites.github.io/italianpot/wine-pairing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

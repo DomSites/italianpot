@@ -1,0 +1,20 @@
+[26-Oct-2018 02:24:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[26-Oct-2018 02:24:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[26-Oct-2018 11:24:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/themes/twentyfifteen/inc/template-tags.php:171
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentyfifteen/inc/template-tags.php on line 171
+[26-Oct-2018 11:30:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/themes/twentyfifteen/inc/template-tags.php:171
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentyfifteen/inc/template-tags.php on line 171
+[26-Oct-2018 11:31:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/italnbfh/public_html/wp-content/themes/twentyfifteen/inc/template-tags.php:171
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentyfifteen/inc/template-tags.php on line 171

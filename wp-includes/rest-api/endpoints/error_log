@@ -1,0 +1,3 @@
+[01-Dec-2022 10:15:32 America/New_York] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home/italnbfh/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php on line 17
+[01-Dec-2022 10:17:48 America/New_York] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home/italnbfh/public_html/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 17
+[01-Dec-2022 10:21:52 America/New_York] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home/italnbfh/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php on line 17

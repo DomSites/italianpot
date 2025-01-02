@@ -1,0 +1,23 @@
+Header set Content-Security-Policy: upgrade-insecure-requests
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+# BEGIN WP Performance Score Booster Settings
+# END WP Performance Score Booster Settings
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteCond %{HTTP_HOST} ^italianpot\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.italianpot\.com$
+RewriteRule ^(.*)$ https://www.italianpot.com/$1 [R,L]

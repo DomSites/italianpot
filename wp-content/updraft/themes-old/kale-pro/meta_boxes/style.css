@@ -1,0 +1,11 @@
+/*** meta box styling ***/
+#kale_meta_box_recipe_index{background-color:#EEE8F3;}
+#kale_meta_box_recipe_index h2{background-color:#E2D7EA;}
+#kale_meta_box_recipe_index li{list-style:none;}
+
+#kale_meta_box_video_post{background-color:#EEE8F3;}
+#kale_meta_box_video_post h2{background-color:#E2D7EA;}
+
+.meta_control textarea, .meta_control input[type='text']{ margin-bottom:3px; width:99%; }
+ .meta_control h3{ color:#069; font-size:1.5em; margin-left:0;padding-left:0; text-transform:uppercase; background-color:red;}
+ 

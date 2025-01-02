@@ -1,0 +1,4 @@
+body{color:~color_body~}
+a:hover{color:~color_accent~}
+.entry-title a{color:~color_accent~}
+.tagline{color:~color_accent~}

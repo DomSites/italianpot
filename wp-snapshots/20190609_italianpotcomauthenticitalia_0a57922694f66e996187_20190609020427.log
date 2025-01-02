@@ -1,0 +1,84 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: June 9, 2019 2:04 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.3.14
+WORDPRESS:	5.2.1
+PHP INFO:	7.0.33 | SAPI: litespeed
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (192M default) 
+MEMORY STACK: 14MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+SQL CREATED: 20190609_italianpotcomauthenticitalia_0a57922694f66e996187_20190609020427_database.sql 
+SQL FILE SIZE: 8.13MB (8528165) 
+SQL FILE TIME: 2019-06-09 02:04:42 
+SQL RUNTIME: 0.34 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /home/italnbfh/public_html 
+ARCHIVE FILE: 20190609_italianpotcomauthenticitalia_0a57922694f66e996187_20190609020427_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	205.71MB 
+STATS:	Dirs 1,553 | Files 11,212 
+SQL ADDED: 20190609_italianpotcomauthenticitalia_0a57922694f66e996187_20190609020427_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 12765
+    [filename] => /home/italnbfh/public_html/wp-snapshots/tmp/20190609_italianpotcomauthenticitalia_0a57922694f66e996187_20190609020427_archive.zip
+    [comment] => 
+)
+ 
+FILE ADDED TO ZIP: 12764 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 85.24MB 
+ARCHIVE RUNTIME: 32.68 sec. 
+MEMORY STACK: 222MB 
+building installer 
+add_extra_files1 
+add_extra_files2 
+add_extra_files3 
+add_extra_files4 
+Doing archive file check 
+add_extra_files5 
+add_extra_files6 
+add_extra_files8 
+Successfully opened zip /home/italnbfh/public_html/wp-snapshots/tmp/20190609_italianpotcomauthenticitalia_0a57922694f66e996187_20190609020427_archive.zip 
+Adding enhanced installer files to archive using ZipArchive 
+Installer files added to archive 
+Added to archive 
+After ziparchive close when adding installer 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL FILE: 8.13MB 
+INSTALLER FILE: 47.42KB 
+ARCHIVE FILE: 86.61MB  
+EXPECTED FILE/DIRECTORY COUNT: 12,765 
+ACTUAL FILE/DIRECTORY COUNT: 12,764 
+ARCHIVE CONSISTENCY TEST: Pass 
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 35.40 sec.
+PEAK PHP MEMORY USED: 222MB
+DONE PROCESSING => 20190609_italianpotcomauthenticitalia June 9, 2019 2:05 am
+ 

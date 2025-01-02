@@ -1,0 +1,4 @@
+[25-Nov-2023 13:08:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/italnbfh/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/SimplePie/Core.php on line 53

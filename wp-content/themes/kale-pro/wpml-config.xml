@@ -1,0 +1,14 @@
+<wpml-config>
+<admin-texts>
+    <key name="theme_mods_kale-pro">
+        <key name="kale_footer_copyright"/>
+        <key name="kale_text_logo"/>
+        <key name="kale_banner_heading"/>
+        <key name="kale_banner_description"/>
+        <key name="kale_frontpage_featured_posts_heading"/>
+        <key name="kale_frontpage_large_post_heading"/>
+        <key name="kale_frontpage_vertical_heading"/>
+        <key name="kale_blog_feed_label"/>
+    </key>
+</admin-texts>
+</wpml-config>

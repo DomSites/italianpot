@@ -1,0 +1,70 @@
+
+Time: 2023/08/18 20:52:59
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined index: chkurls
+IP Address: 188.126.88.3
+File Name: /home/italnbfh/public_html/wp-content/plugins/stop-spammer-registrations-plugin/classes/ss_check_post.php
+Line Number: 217
+Memory Used: 6815744 Peak: 9089024
+---------------------
+
+Time: 2023/08/20 00:38:36
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined index: chkurls
+IP Address: 23.247.7.168
+File Name: /home/italnbfh/public_html/wp-content/plugins/stop-spammer-registrations-plugin/classes/ss_check_post.php
+Line Number: 217
+Memory Used: 61341696 Peak: 61341696
+---------------------
+
+Time: 2023/08/20 01:44:25
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined index: chkurls
+IP Address: 45.39.72.159
+File Name: /home/italnbfh/public_html/wp-content/plugins/stop-spammer-registrations-plugin/classes/ss_check_post.php
+Line Number: 217
+Memory Used: 59244544 Peak: 61341696
+---------------------
+
+Time: 2023/08/20 23:54:48
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined index: chkurls
+IP Address: 209.127.48.64
+File Name: /home/italnbfh/public_html/wp-content/plugins/stop-spammer-registrations-plugin/classes/ss_check_post.php
+Line Number: 217
+Memory Used: 65536000 Peak: 65536000
+---------------------
+
+Time: 2023/08/21 08:25:24
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined index: chkurls
+IP Address: 45.61.121.199
+File Name: /home/italnbfh/public_html/wp-content/plugins/stop-spammer-registrations-plugin/classes/ss_check_post.php
+Line Number: 217
+Memory Used: 59244544 Peak: 61341696
+---------------------
+
+Time: 2023/08/21 20:18:35
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined index: chkurls
+IP Address: 65.109.237.29
+File Name: /home/italnbfh/public_html/wp-content/plugins/stop-spammer-registrations-plugin/classes/ss_check_post.php
+Line Number: 217
+Memory Used: 59244544 Peak: 61341696
+---------------------
+
+Time: 2023/08/22 03:44:11
+Error Number: 8
+Error Type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+Error Msg: Undefined index: chkurls
+IP Address: 185.217.127.65
+File Name: /home/italnbfh/public_html/wp-content/plugins/stop-spammer-registrations-plugin/classes/ss_check_post.php
+Line Number: 217
+Memory Used: 59244544 Peak: 61341696
+---------------------

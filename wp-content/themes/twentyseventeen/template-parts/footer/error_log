@@ -1,0 +1,40 @@
+[31-Mar-2022 09:02:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php on line 14
+[31-Mar-2022 09:57:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php on line 18
+[09-Aug-2022 01:54:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php on line 14
+[09-Aug-2022 01:54:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php on line 14
+[09-Aug-2022 01:54:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php on line 14
+[09-Aug-2022 04:10:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php on line 18
+[09-Aug-2022 04:10:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php on line 18
+[09-Aug-2022 04:10:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php on line 18
+[20-Aug-2022 19:19:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php on line 18
+[21-Aug-2022 04:57:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php on line 14

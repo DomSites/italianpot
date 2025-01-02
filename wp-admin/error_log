@@ -1,0 +1,63 @@
+[02-Oct-2018 16:18:11 UTC] PHP Warning:  Illegal string offset 'saswp_dayofweek' in /home/italnbfh/public_html/wp-content/plugins/schema-and-structured-data-for-wp/view/schema_type.php on line 497
+[02-Oct-2018 16:18:11 UTC] PHP Warning:  array_search() expects parameter 2 to be array, string given in /home/italnbfh/public_html/wp-content/plugins/schema-and-structured-data-for-wp/view/schema_type.php on line 501
+[02-Oct-2018 16:18:11 UTC] PHP Warning:  array_search() expects parameter 2 to be array, string given in /home/italnbfh/public_html/wp-content/plugins/schema-and-structured-data-for-wp/view/schema_type.php on line 501
+[02-Oct-2018 16:18:11 UTC] PHP Warning:  array_search() expects parameter 2 to be array, string given in /home/italnbfh/public_html/wp-content/plugins/schema-and-structured-data-for-wp/view/schema_type.php on line 501
+[02-Oct-2018 16:18:11 UTC] PHP Warning:  array_search() expects parameter 2 to be array, string given in /home/italnbfh/public_html/wp-content/plugins/schema-and-structured-data-for-wp/view/schema_type.php on line 501
+[02-Oct-2018 16:18:11 UTC] PHP Warning:  array_search() expects parameter 2 to be array, string given in /home/italnbfh/public_html/wp-content/plugins/schema-and-structured-data-for-wp/view/schema_type.php on line 501
+[02-Oct-2018 16:18:11 UTC] PHP Warning:  array_search() expects parameter 2 to be array, string given in /home/italnbfh/public_html/wp-content/plugins/schema-and-structured-data-for-wp/view/schema_type.php on line 501
+[02-Oct-2018 16:18:11 UTC] PHP Warning:  array_search() expects parameter 2 to be array, string given in /home/italnbfh/public_html/wp-content/plugins/schema-and-structured-data-for-wp/view/schema_type.php on line 501
+[13-Jul-2021 20:26:41 UTC] PHP Notice:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/italnbfh/public_html/wp-admin/includes/plugin-install.php on line 183
+[21-Jul-2021 14:33:53 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'wp_enable_block_templates' not found or invalid function name in /home/italnbfh/public_html/wp-includes/class-wp-hook.php on line 303
+[21-Jul-2021 14:33:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Theme_JSON_Resolver' not found in /home/italnbfh/public_html/wp-includes/script-loader.php:1530
+Stack trace:
+#0 /home/italnbfh/public_html/wp-includes/class-wp-hook.php(303): wp_default_styles(Object(WP_Styles))
+#1 /home/italnbfh/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/italnbfh/public_html/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#3 /home/italnbfh/public_html/wp-includes/class.wp-styles.php(135): do_action_ref_array('wp_default_styl...', Array)
+#4 /home/italnbfh/public_html/wp-includes/functions.wp-styles.php(24): WP_Styles->__construct()
+#5 /home/italnbfh/public_html/wp-includes/general-template.php(4576): wp_styles()
+#6 /home/italnbfh/public_html/wp-admin/upgrade.php(65): wp_admin_css('install', true)
+#7 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/script-loader.php on line 1530
+[21-Jul-2021 14:33:53 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'wp_enable_block_templates' not found or invalid function name in /home/italnbfh/public_html/wp-includes/class-wp-hook.php on line 303
+[21-Jul-2021 14:33:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Theme_JSON_Resolver' not found in /home/italnbfh/public_html/wp-includes/script-loader.php:1530
+Stack trace:
+#0 /home/italnbfh/public_html/wp-includes/class-wp-hook.php(303): wp_default_styles(Object(WP_Styles))
+#1 /home/italnbfh/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/italnbfh/public_html/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#3 /home/italnbfh/public_html/wp-includes/class.wp-styles.php(135): do_action_ref_array('wp_default_styl...', Array)
+#4 /home/italnbfh/public_html/wp-includes/functions.wp-styles.php(24): WP_Styles->__construct()
+#5 /home/italnbfh/public_html/wp-includes/general-template.php(4576): wp_styles()
+#6 /home/italnbfh/public_html/wp-admin/upgrade.php(65): wp_admin_css('install', true)
+#7 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/script-loader.php on line 1530
+[31-Aug-2021 19:26:37 UTC] WordPress database error Table 'italnbfh_wp683.wpyp_cleantalk_sfw_temp' doesn't exist for query INSERT INTO `wpyp_cleantalk_sfw_temp` (network, mask, status) VALUES (3325457085, 4294967295, 1),(2130706433, 4294967295, 1); made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include_once('/plugins/cleantalk-spam-protect/cleantalk.php'), Cleantalk\Common\Cron->runTasks, call_user_func_array, apbct_sfw_update__checker, apbct_sfw_update__worker, Cleantalk\Common\Queue->executeStage, apbct_sfw_update__process_exclusions, Cleantalk\ApbctWP\Firewall\SFW::update__write_to_db__exclusions, Cleantalk\ApbctWP\DB->execute
+[01-Sep-2021 08:50:28 UTC] WordPress database error Table 'italnbfh_wp683.wpyp_cleantalk_sfw_temp' doesn't exist for query INSERT INTO wpyp_cleantalk_sfw_temp (network, mask, status, source) VALUES (168430090, 4294967295, 0, 0),(184483329, 4294967295, 0, 0),(184483330, 4294967295, 0, 0),(184483331, 4294967295, 0, 0),(184483332, 4294967295, 0, 0),(184483333, 4294967295, 0, 0),(184483334, 4294967295, 0, 0),(184483335, 4294967295, 0, 0),(184483336, 4294967295, 0, 0),(184483337, 4294967295, 0, 0),(184483338, 4294967295, 0, 0),(184483339, 4294967295, 0, 0),(184483340, 4294967295, 0, 0); made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include_once('/plugins/cleantalk-spam-protect/cleantalk.php'), Cleantalk\Common\Cron->runTasks, call_user_func_array, apbct_sfw_update__checker, apbct_sfw_update__worker, Cleantalk\Common\Queue->executeStage, apbct_sfw_update__process_files, apbct_sfw_update__process_file, Cleantalk\ApbctWP\Firewall\SFW::update__write_to_db, Cleantalk\ApbctWP\DB->execute
+[09-Sep-2021 21:30:59 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[09-Sep-2021 22:01:17 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[09-Sep-2021 23:01:18 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 00:01:18 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 01:01:18 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 02:01:18 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 03:01:17 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 04:01:18 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 05:01:18 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 06:01:18 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 07:01:19 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 08:01:19 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 09:01:17 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 10:01:18 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 11:01:18 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 12:01:18 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 13:01:18 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 14:01:17 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 15:01:19 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 16:01:19 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[01-Nov-2022 14:04:05 UTC] WordPress database error Duplicate column name 'mobile' for query ALTER TABLE `wpyp_litespeed_url_file`
+				ADD COLUMN `mobile` tinyint(4) NOT NULL COMMENT "mobile=1",
+				ADD COLUMN `webp` tinyint(4) NOT NULL COMMENT "webp=1"
+			 made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include_once('/plugins/litespeed-cache/litespeed-cache.php'), run_litespeed_cache, LiteSpeed\Root::cls, LiteSpeed\Core->__construct, LiteSpeed\Conf->init, LiteSpeed\Conf->_conf_db_init, LiteSpeed\Data->conf_upgrade, call_user_func, litespeed_update_5_3
+[07-Apr-2024 22:28:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/italnbfh/public_html/wp-content/plugins/wordpress-seo-premium/admin/metabox/class-metabox-analysis-seo.php on line 37
+[09-Apr-2024 01:37:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/italnbfh/public_html/wp-content/plugins/wordpress-seo-premium/admin/metabox/class-metabox-analysis-seo.php on line 37
+[09-Apr-2024 01:38:48 UTC] PHP Warning:  Trying to access array offset on null in /home/italnbfh/public_html/wp-content/plugins/wordpress-seo-premium/admin/metabox/class-metabox-analysis-seo.php on line 37
+[06-May-2024 03:44:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/italnbfh/public_html/wp-content/plugins/wordpress-seo-premium/admin/metabox/class-metabox-analysis-seo.php on line 37

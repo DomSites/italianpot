@@ -1,0 +1,702 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-01-25 09:42-0600\n"
+"PO-Revision-Date: 2016-06-18 05:56-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: inc\n"
+
+#: 404.php:19
+msgid "Page Not Found"
+msgstr ""
+
+#: category.php:36 parts/feed.php:55
+msgid "Previous Posts"
+msgstr ""
+
+#: category.php:37 parts/feed.php:56
+msgid "Next Posts"
+msgstr ""
+
+#: comments.php:14
+msgid "Name"
+msgstr ""
+
+#: comments.php:16
+msgid "Email Address"
+msgstr ""
+
+#: comments.php:18
+msgid "Website"
+msgstr ""
+
+#: comments.php:20
+msgid "Comment"
+msgstr ""
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:76
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: customize/customizer.php:17
+msgid "Kale Pro - Info"
+msgstr ""
+
+#: customize/customizer.php:23
+msgid "General Settings"
+msgstr ""
+
+#: customize/customizer.php:30
+msgid "Front Page"
+msgstr ""
+
+#: customize/customizer.php:33
+msgid "Banner / Slider"
+msgstr ""
+
+#: customize/customizer.php:38 customize/theme-defaults.php:57
+msgid "Featured Posts"
+msgstr ""
+
+#: customize/customizer.php:43
+msgid "Large / Highlight Post"
+msgstr ""
+
+#: customize/customizer.php:48
+msgid "Vertical Content / Posts"
+msgstr ""
+
+#: customize/customizer.php:55
+msgid "Blog Feed"
+msgstr ""
+
+#: customize/customizer.php:61
+msgid "Posts"
+msgstr ""
+
+#: customize/customizer.php:67
+msgid "Pages"
+msgstr ""
+
+#: customize/customizer.php:73
+msgid "Custom Typography"
+msgstr ""
+
+#: customize/customizer.php:79
+msgid "Ad Options"
+msgstr ""
+
+#: customize/customizer.php:85
+msgid "Advanced"
+msgstr ""
+
+#: customize/customizer.php:107
+msgid "KALE PRO"
+msgstr ""
+
+#: customize/customizer.php:108
+msgid ""
+"\n"
+"        <h3>Demo Site</h3>\n"
+"        <p>Head on over to the <a href=\"http://www.lyrathemes.com/preview/?"
+"theme=kale-pro\" target=\"_blank\">Kale Pro demo</a> to see what you can "
+"accomplish with this theme!</p>\n"
+"        <h3>Documentation</h3>\n"
+"        <p>Detailed information on theme setup and customization.</p>\n"
+"        <p><a class=\"button\" href=\"https://www.lyrathemes.com/"
+"documentation/kale-pro.pdf\" target=\"_blank\">Kale Pro Documentation</a></"
+"p>\n"
+"        <h3>One Click Demo Import</h3>\n"
+"        <p>You can import the demo data by installing the <a href=\"https://"
+"wordpress.org/plugins/one-click-demo-import/\" target=\"_blank\">One Click "
+"Demo Data</a> plugin, and then going to Appearance > Import Demo Data.</p>\n"
+"        <h3>Sample Data</h3>\n"
+"        <p>Alternatively, you can manually install the content and settings "
+"shown on our demo site by importing this sample data.</p>\n"
+"        <p><a class=\"button\" href=\"https://www.lyrathemes.com/sample-data/"
+"kale-pro-sample-data.zip\" target=\"_blank\">Kale Pro Sample Data</a></p>\n"
+"        <h3>Feedback and Support</h3>\n"
+"        <p>For feedback and support, please contact us and we would be happy "
+"to assist!</p>\n"
+"        <p><a class=\"button\" href=\"https://www.lyrathemes.com/support\" "
+"target=\"_blank\">Kale Pro Support</a></p>\n"
+"        "
+msgstr ""
+
+#: customize/customizer.php:135
+msgid "Copyright Text"
+msgstr ""
+
+#: customize/customizer.php:136
+msgid "Accepts HTML."
+msgstr ""
+
+#: customize/customizer.php:145
+msgid "Search Icon in Main Nav?"
+msgstr ""
+
+#: customize/customizer.php:146
+msgid "Add the search icon in the main top navigation."
+msgstr ""
+
+#: customize/customizer.php:154
+msgid "Enable Fancy Scrollbar?"
+msgstr ""
+
+#: customize/customizer.php:155
+msgid "Whether to replace the default page scrollbar with a fancy scrollbar."
+msgstr ""
+
+#: customize/customizer.php:167
+msgid "Show Image Logo?"
+msgstr ""
+
+#: customize/customizer.php:168
+msgid "Choose whether to display the image logo."
+msgstr ""
+
+#: customize/customizer.php:177
+msgid "Text Logo"
+msgstr ""
+
+#: customize/customizer.php:178
+msgid ""
+"Displayed when `Show Image Logo?` is set to `Show` or if there is no logo "
+"image uploaded."
+msgstr ""
+
+#: customize/customizer.php:189 customize/customizer.php:209
+#: customize/customizer.php:248 customize/customizer.php:490
+#: customize/customizer.php:551 customize/customizer.php:602
+#: customize/customizer.php:679 customize/customizer.php:783
+#: customize/customizer.php:810 customize/customizer.php:881
+msgid "<hr />"
+msgstr ""
+
+#: customize/customizer.php:200
+msgid "Default or Custom Colors?"
+msgstr ""
+
+#: customize/customizer.php:217
+msgid "Body/Text Color"
+msgstr ""
+
+#: customize/customizer.php:226
+msgid "Accent Color"
+msgstr ""
+
+#: customize/customizer.php:239
+msgid "Default or Custom Typography?"
+msgstr ""
+
+#: customize/customizer.php:256
+msgid "Body Font"
+msgstr ""
+
+#: customize/customizer.php:265
+msgid "Logo Font"
+msgstr ""
+
+#: customize/customizer.php:274
+msgid "Tagline Font"
+msgstr ""
+
+#: customize/customizer.php:283
+msgid "Headings"
+msgstr ""
+
+#: customize/customizer.php:292
+msgid "Heading 1 (H1)"
+msgstr ""
+
+#: customize/customizer.php:301
+msgid "Heading 2 (H2)"
+msgstr ""
+
+#: customize/customizer.php:310
+msgid "Heading 3 (H3)"
+msgstr ""
+
+#: customize/customizer.php:319
+msgid "Heading 4 (H4)"
+msgstr ""
+
+#: customize/customizer.php:328
+msgid "Heading 5 (H5)"
+msgstr ""
+
+#: customize/customizer.php:337
+msgid "Heading 6 (H6)"
+msgstr ""
+
+#: customize/customizer.php:350
+msgid "Caption Heading"
+msgstr ""
+
+#: customize/customizer.php:359
+msgid "Caption Description"
+msgstr ""
+
+#: customize/customizer.php:368
+msgid "Caption URL"
+msgstr ""
+
+#: customize/customizer.php:381
+msgid "Frontpage Banner / Slider"
+msgstr ""
+
+#: customize/customizer.php:403
+msgid "<hr />Posts Slider"
+msgstr ""
+
+#: customize/customizer.php:404
+msgid ""
+"Select a category to show posts from in the slider. Also enter the number of "
+"posts to show from that category."
+msgstr ""
+
+#: customize/customizer.php:412
+msgid "Posts Slider - Category"
+msgstr ""
+
+#: customize/customizer.php:422
+msgid "Posts Slider - Number of Slides/Posts"
+msgstr ""
+
+#: customize/customizer.php:433
+msgid "<hr />Custom Slider"
+msgstr ""
+
+#: customize/customizer.php:434
+msgid "Upload slide images and specify captions."
+msgstr ""
+
+#: customize/customizer.php:442
+msgid "Custom Slider - Item"
+msgstr ""
+
+#: customize/customizer.php:480
+msgid "Show Featured Posts?"
+msgstr ""
+
+#: customize/customizer.php:481
+msgid "Choose whether to display the featured posts under the banner/slider."
+msgstr ""
+
+#: customize/customizer.php:498 customize/customizer.php:610
+msgid "Heading"
+msgstr ""
+
+#: customize/customizer.php:507
+msgid "Post 1"
+msgstr ""
+
+#: customize/customizer.php:517
+msgid "Post 2"
+msgstr ""
+
+#: customize/customizer.php:527
+msgid "Post 3"
+msgstr ""
+
+#: customize/customizer.php:541
+msgid "Show Large / Highlight Post?"
+msgstr ""
+
+#: customize/customizer.php:542
+msgid "Choose whether to display the large post under the blog feed."
+msgstr ""
+
+#: customize/customizer.php:559 customize/customizer.php:568
+msgid "Select Large / Highlight Post"
+msgstr ""
+
+#: customize/customizer.php:578
+msgid "Show Share Links?"
+msgstr ""
+
+#: customize/customizer.php:592
+msgid "Show Vertical Content / Possts?"
+msgstr ""
+
+#: customize/customizer.php:593
+msgid ""
+"Choose whether to display the 5 vertically formatted posts just above the "
+"footer area."
+msgstr ""
+
+#: customize/customizer.php:619
+msgid "Category"
+msgstr ""
+
+#: customize/customizer.php:633 customize/customizer.php:737
+msgid "Show Meta?"
+msgstr ""
+
+#: customize/customizer.php:634
+msgid ""
+"Choose whether to display date, category, author, tags for posts in the blog "
+"feed. This applies to all blog feeds on all pages, including the front page."
+msgstr ""
+
+#: customize/customizer.php:643 customize/customizer.php:747
+msgid "Show Date?"
+msgstr ""
+
+#: customize/customizer.php:652 customize/customizer.php:756
+msgid "Show Category?"
+msgstr ""
+
+#: customize/customizer.php:661 customize/customizer.php:765
+msgid "Show Author?"
+msgstr ""
+
+#: customize/customizer.php:670
+msgid "Show Comments?"
+msgstr ""
+
+#: customize/customizer.php:686
+msgid "Post Display Format (With Sidebar)"
+msgstr ""
+
+#: customize/customizer.php:705
+msgid "Show Share For Full Posts?"
+msgstr ""
+
+#: customize/customizer.php:714
+msgid "Heading for Blog Feed on Home Page"
+msgstr ""
+
+#: customize/customizer.php:715
+msgid "The `Recent Posts` label on the home page."
+msgstr ""
+
+#: customize/customizer.php:724
+msgid "Show Sidebar on Category Pages?"
+msgstr ""
+
+#: customize/customizer.php:738
+msgid ""
+"Choose whether to display date, category, author, tags for posts on the post "
+"page."
+msgstr ""
+
+#: customize/customizer.php:774
+msgid "Show Tags?"
+msgstr ""
+
+#: customize/customizer.php:790 customize/customizer.php:847
+msgid "Layout"
+msgstr ""
+
+#: customize/customizer.php:791 customize/customizer.php:848
+msgid "Choose whether to display the sidebar."
+msgstr ""
+
+#: customize/customizer.php:801 customize/customizer.php:858
+msgid "Show Featured Image ?"
+msgstr ""
+
+#: customize/customizer.php:802
+msgid "Whether to show featured image at the beginning of the post."
+msgstr ""
+
+#: customize/customizer.php:817
+msgid "Share Links at the Top?"
+msgstr ""
+
+#: customize/customizer.php:826
+msgid "Share Links at the Bottom?"
+msgstr ""
+
+#: customize/customizer.php:835
+msgid "Show Related posts?"
+msgstr ""
+
+#: customize/customizer.php:859
+msgid "Whether to show featured image at the beginning of the page."
+msgstr ""
+
+#: customize/customizer.php:871
+msgid "Enable Blog Feed Ads"
+msgstr ""
+
+#: customize/customizer.php:889
+msgid "Create Ad"
+msgstr ""
+
+#: customize/customizer.php:913
+msgid "Custom CSS"
+msgstr ""
+
+#: customize/customizer.php:914
+msgid "Custom CSS code to modify styling."
+msgstr ""
+
+#: customize/customizer.php:924
+msgid "Google Analytics Code"
+msgstr ""
+
+#: customize/customizer.php:925
+msgid "Copy and paste your Google Analytics code here."
+msgstr ""
+
+#: customize/theme-defaults.php:66
+msgid "My Diary"
+msgstr ""
+
+#: customize/theme-defaults.php:71
+msgid "All Time Favorites"
+msgstr ""
+
+#: customize/theme-defaults.php:79
+msgid "Recent Posts"
+msgstr ""
+
+#: footer.php:24
+msgid "Built using "
+msgstr ""
+
+#: footer.php:24
+msgid "Kale Pro"
+msgstr ""
+
+#: footer.php:24
+msgid "by"
+msgstr ""
+
+#: functions.php:24
+msgid "Custom Colors"
+msgstr ""
+
+#: functions.php:46
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:458
+msgid "Type here"
+msgstr ""
+
+#: functions.php:598
+msgid "Kale Demo Import"
+msgstr ""
+
+#: functions.php:604
+msgid ""
+"Make sure all the recommended plugins are installed before importing the "
+"demo. After the import, please set up the slider (Posts Slider or Custom "
+"Slider) under Appearance > Customize > Front Page > Banner/Slider. You will "
+"also need to assign the Main menu to \"Main Menu\" location. If the social "
+"media icons are not showing up on the top left and in the sidebars, make "
+"sure that the Custom Menu widget assigned to the \"Header - Left\" and "
+"sidebar locations is set to the \"Social\" menu."
+msgstr ""
+
+#: header.php:75
+msgid "Toggle Navigation"
+msgstr ""
+
+#: meta_boxes/meta_box_recipe_index.php:10
+msgid "Categories to Include"
+msgstr ""
+
+#: meta_boxes/meta_box_recipe_index.php:18
+msgid "Posts Per Category"
+msgstr ""
+
+#: meta_boxes/meta_box_video_post.php:3
+msgid "YouTube Video Embed URL"
+msgstr ""
+
+#: meta_boxes/meta_boxes.php:36
+msgid "Kale - Recipe Index Options"
+msgstr ""
+
+#: meta_boxes/meta_boxes.php:71
+msgid "Kale - Video Options"
+msgstr ""
+
+#: page.php:36 template-full.php:32
+msgid "Page ID: "
+msgstr ""
+
+#: parts/entry.php:66 single.php:67
+msgid "Post ID: "
+msgstr ""
+
+#: parts/entry.php:80
+msgid "by "
+msgstr ""
+
+#: parts/feed.php:50
+msgid "No posts found."
+msgstr ""
+
+#: shortcodes/shortcodes.php:41
+msgid "Servings"
+msgstr ""
+
+#: shortcodes/shortcodes.php:44
+msgid "Prep"
+msgstr ""
+
+#: shortcodes/shortcodes.php:47
+msgid "Cook"
+msgstr ""
+
+#: shortcodes/shortcodes.php:50
+msgid "Total"
+msgstr ""
+
+#: shortcodes/shortcodes.php:53
+msgid "Difficulty"
+msgstr ""
+
+#: shortcodes/shortcodes.php:65
+msgid "By: "
+msgstr ""
+
+#: shortcodes/shortcodes.php:75
+msgid "Ingredients"
+msgstr ""
+
+#: shortcodes/shortcodes.php:98
+msgid "Directions"
+msgstr ""
+
+#: shortcodes/shortcodes.php:101
+msgid "Step"
+msgstr ""
+
+#: single.php:89
+msgid "Filed Under: "
+msgstr ""
+
+#: single.php:90
+msgid "Tags: "
+msgstr ""
+
+#: single.php:120
+msgid "Related Posts"
+msgstr ""
+
+#: template-recipe-index.php:39
+msgid "All "
+msgstr ""
+
+#: widgets/widgets.php:15
+msgid "Sidebar - Default"
+msgstr ""
+
+#: widgets/widgets.php:24
+msgid "Sidebar - Default - Bordered"
+msgstr ""
+
+#: widgets/widgets.php:34
+msgid "Sidebar - Front Page - Bordered"
+msgstr ""
+
+#: widgets/widgets.php:54
+msgid "Sidebar - Front Page"
+msgstr ""
+
+#: widgets/widgets.php:63
+msgid "Sidebar - Post - Bordered"
+msgstr ""
+
+#: widgets/widgets.php:71
+msgid "Sidebar - Post"
+msgstr ""
+
+#: widgets/widgets.php:80
+msgid "Sidebar - Page - Bordered"
+msgstr ""
+
+#: widgets/widgets.php:88
+msgid "Sidebar - Page"
+msgstr ""
+
+#: widgets/widgets.php:100
+msgid "Header - Left"
+msgstr ""
+
+#: widgets/widgets.php:102
+msgid "Add widgets here to appear in the top left area."
+msgstr ""
+
+#: widgets/widgets.php:109
+msgid "Header - Right"
+msgstr ""
+
+#: widgets/widgets.php:111
+msgid "Add widgets here to appear in the top right area."
+msgstr ""
+
+#: widgets/widgets.php:121
+msgid "Footer - Full Width"
+msgstr ""
+
+#: widgets/widgets.php:130
+msgid "Footer Secondary - Col 1"
+msgstr ""
+
+#: widgets/widgets.php:138
+msgid "Footer Secondary - Col 2"
+msgstr ""
+
+#: widgets/widgets.php:146
+msgid "Footer Secondary - Col 3"
+msgstr ""
+
+#: widgets/widgets.php:154
+msgid "Footer Secondary - Col 4"
+msgstr ""
+
+#: widgets/widgets.php:162
+msgid "Footer Secondary - Col 5"
+msgstr ""
+
+#: widgets/widgets.php:171
+msgid "Footer - Last"
+msgstr ""
+
+#: widgets/widgets.php:182
+msgid "Page Ad"
+msgstr ""
+
+#: widgets/widgets.php:190
+msgid "Post Ad"
+msgstr ""
+
+#: widgets/widgets.php:201
+msgid "Recipe Index - 1"
+msgstr ""
+
+#: widgets/widgets.php:209
+msgid "Recipe Index - 2"
+msgstr ""
+
+#: widgets/widgets.php:217
+msgid "Recipe Index - 3"
+msgstr ""
+
+#: widgets/widgets.php:225
+msgid "Recipe Index - 4"
+msgstr ""

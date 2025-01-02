@@ -1,0 +1,138 @@
+#select404page {
+  width: 100%; 
+}
+
+#pp-404page-settings .form-table th, .form-table td {
+  display: block;
+  width: auto;
+}
+
+#pp-404page-settings .form-table th {
+  padding: 0;
+  font-weight: normal;
+}
+
+#pp-404page-settings .form-table td {
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+#pp-404page-settings .form-table td p {
+  padding: 0;
+  line-height: 1.2;
+  margin-bottom: 20px;
+}
+
+#pp-settings-advanced .form-table th {
+  display: none;
+}
+
+#pp-404page-settings input[type="checkbox"] {
+	display: none;
+}
+
+#pp-404page-settings input[type="checkbox"] + label.check {
+	cursor: pointer;
+	text-indent: -9999px;
+	width: 80px;
+	height: 40px;
+	background: grey;
+	display: block;
+	border-radius: 40px;
+	position: relative;
+  float: left;
+  margin-right: 40px;
+}
+
+.rtl #pp-404page-settings input[type="checkbox"] + label.check {
+  float: right;
+  margin-left: 40px;
+  margin-right: 0;
+}
+
+#pp-404page-settings input[type="checkbox"]:disabled + label.check {
+  background-color: #DDD;
+}
+
+#pp-404page-settings input[type="checkbox"] + label.check:after {
+	content: '';
+	position: absolute;
+	top: 5px;
+	width: 30px;
+	height: 30px;
+	background: #fff;
+	border-radius: 30px;
+	transition: 0.3s;
+}
+
+body:not(.rtl) #pp-404page-settings input[type="checkbox"] + label.check:after, .rtl #pp-404page-settings input[type="checkbox"]:enabled:checked + label.check:after {
+  left: 5px;
+  transform: none;
+}
+
+#pp-404page-settings input[type="checkbox"]:enabled:checked + label.check {
+  background: #104060;
+}
+
+body:not(.rtl) #pp-404page-settings input[type="checkbox"]:enabled:checked + label.check:after, .rtl #pp-404page-settings input[type="checkbox"] + label.check:after {
+  left: calc(100% - 5px);
+	transform: translateX(-100%);
+}
+
+#pp-404page-settings select {
+  border: 1px solid #104060;
+  border-radius:5px;
+  height: 40px;
+  line-height: 40px;
+  margin: 5px 0;
+}
+
+#pp-404page-settings .dashicons-warning, #pp-404page-settings input[type="checkbox"] + label.check.warning:before {
+  color: #d54e21;
+}
+
+#pp-404page-videos:after {
+  content: '';
+  display: block;
+  width: 0;
+  height: 0;
+  padding: 0;
+  margin: 0;
+  clear: both;
+}
+
+#pp-404page-videos a {
+  display: block;
+  margin: 0 12px 12px 0;
+  width: 300px;
+  float: left;
+}
+
+#pp-404page-videos a div {
+  position: relative;
+}
+
+#pp-404page-videos a img {
+  width: 100%;
+  height: auto;
+}
+  
+#pp-404page-videos a div:after {
+  content: '\f236';
+  font-family: dashicons;
+  font-size: 60px;
+  display: block;
+  position: absolute;
+   left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  z-index: 99;
+  color: #FF0000;
+  opacity: 0.3;
+  transition: opacity 0.3s ease-in-out;
+}
+
+#pp-404page-videos a:hover div:after, #pp-404page-videos a:focus div:after {
+  opacity: 0.8;
+}

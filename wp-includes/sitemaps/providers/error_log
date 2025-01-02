@@ -1,0 +1,12 @@
+[25-Nov-2023 13:09:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/italnbfh/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[25-Nov-2023 13:09:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/italnbfh/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[25-Nov-2023 13:09:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/italnbfh/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17

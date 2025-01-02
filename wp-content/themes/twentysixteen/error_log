@@ -1,0 +1,133 @@
+[06-Oct-2018 21:02:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/search.php on line 10
+[06-Oct-2018 21:08:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/search.php on line 10
+[06-Oct-2018 21:08:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/search.php on line 10
+[07-Oct-2018 07:24:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function post_password_required() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/comments.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/comments.php on line 18
+[07-Oct-2018 07:30:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function post_password_required() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/comments.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/comments.php on line 18
+[07-Oct-2018 07:30:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function post_password_required() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/comments.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/comments.php on line 18
+[07-Oct-2018 10:12:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/header.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/header.php on line 13
+[07-Oct-2018 10:18:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/header.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/header.php on line 13
+[07-Oct-2018 10:19:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/header.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/header.php on line 13
+[20-Oct-2018 03:19:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/searchform.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/searchform.php on line 11
+[20-Oct-2018 04:58:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/sidebar-content-bottom.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/sidebar-content-bottom.php on line 10
+[20-Oct-2018 05:05:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/sidebar-content-bottom.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/sidebar-content-bottom.php on line 10
+[20-Oct-2018 05:05:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/sidebar-content-bottom.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/sidebar-content-bottom.php on line 10
+[20-Oct-2018 10:48:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/sidebar.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/sidebar.php on line 11
+[20-Oct-2018 10:55:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/sidebar.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/sidebar.php on line 11
+[20-Oct-2018 10:56:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/sidebar.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/sidebar.php on line 11
+[02-Dec-2018 10:45:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[08-Feb-2019 23:55:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[08-Feb-2019 23:55:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[08-Apr-2019 15:32:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[06-May-2019 23:46:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[07-May-2019 20:09:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[28-May-2019 03:38:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[06-Jul-2019 14:10:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[20-Oct-2019 12:55:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[10-Dec-2019 18:30:44 America/New_York] PHP Notice:  Undefined index: wp_version in /home/italnbfh/public_html/wp-content/themes/twentysixteen/functions.php on line 31
+[10-Dec-2019 18:30:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/functions.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/functions.php on line 32
+[27-Dec-2020 09:03:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[21-Feb-2021 00:38:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[21-Feb-2021 00:38:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[26-May-2022 00:11:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/index.php on line 17
+[25-Aug-2022 12:42:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[02-Sep-2023 16:56:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/index.php on line 17
+[02-Sep-2023 16:57:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/italnbfh/public_html/wp-content/themes/twentysixteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/italnbfh/public_html/wp-content/themes/twentysixteen/index.php on line 17
